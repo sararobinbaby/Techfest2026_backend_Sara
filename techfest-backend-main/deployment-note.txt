@@ -1,0 +1,3 @@
+
+Frontend deployment: Netlify
+Backend deployment: Render
